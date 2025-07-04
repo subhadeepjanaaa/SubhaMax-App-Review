@@ -78,12 +78,3 @@ Subhamax is built to serve individuals and professionals in the matchmaking indu
 ## 🚀 Getting Started
 
 ```bash
-# Clone the repository
-git clone https://github.com/your-username/subhamax-review.git
-cd subhamax-review
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev

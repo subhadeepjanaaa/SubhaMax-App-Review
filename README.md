@@ -74,7 +74,3 @@ Subhamax is built to serve individuals and professionals in the matchmaking indu
 - **Hosting**: Vercel / AWS / Firebase  
 
 ---
-
-## 🚀 Getting Started
-
-```bash
